@@ -5,4 +5,4 @@
 
 [Programação orientada a objetos com Java](https://github.com/abraaofilho10/desafio-dio-prog-oo-java)
 
-[Academia Digital com Java]https://github.com/abraaofilho10/desafio-dio-academia-digital
+[Academia Digital com Java](https://github.com/abraaofilho10/desafio-dio-academia-digital)
